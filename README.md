@@ -87,3 +87,8 @@ This Excel dashboard provides a clear overview of **sales performance, customer 
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+
+## 📊 Dashboard Preview
+
+![Food Delivery Dashboard](Dashboard.jpg)
+
