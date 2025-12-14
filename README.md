@@ -90,5 +90,5 @@ This Excel dashboard provides a clear overview of **sales performance, customer 
 
 ## 📊 Dashboard Preview
 
-![Food Delivery Dashboard](SalesDashboard.jpg)
+![Dashboard](sales_dashboard.jpg)
 
